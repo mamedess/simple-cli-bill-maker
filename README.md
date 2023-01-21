@@ -1,3 +1,5 @@
 # simple-cli-bill-maker
 
-just type the requested input and see the magic!
+to run: go run index.go bill.go
+
+then just type the requested input and see the magic!
